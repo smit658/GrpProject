@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Login</string>
+    <string name="username">Username</string>
+    <string name="login">login</string>
+    <string name="Register">If you don\'t have account ??</string>
+    <string name="password">Password</string>
 </resources>
