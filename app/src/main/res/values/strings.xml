@@ -5,4 +5,8 @@
     <string name="Register">If you don\'t have account ??</string>
     <string name="password">Password</string>
     <string name="contactUs">Contact Us</string>
+    <string name="ContactNo">ContactNo</string>
+    <string name="email">E-mail</string>
+    <string name="send">Send</string>
+    <string name="msg">Type message here</string>
 </resources>
